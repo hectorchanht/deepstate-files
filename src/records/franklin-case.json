@@ -17,5 +17,7 @@
     "court records"
   ],
   "added": "2026-10-08",
-  "reviewed": true
+  "reviewed": true,
+  "tldr": "The Franklin case's court record: Lawrence King was convicted of financial crimes (1991, 15-year sentence); the Douglas County grand jury (76 witnesses, 395 exhibits) found 'no credible evidence' of the alleged abuse ring — but note the linked grand-jury transcript is currently offline (source dead).",
+  "ai_summary": "Source-status flag: the linked Scribd transcript of the July 23, 1990 grand-jury memorandum now returns HTTP 410 (removed) — the primary source is currently unreachable at this URL and needs a replacement host.\nAI review based on the wave-2 research review of the grand-jury report contents:\n- Established: Lawrence E. King Jr. pleaded guilty to fraud/embezzlement (1991), 15-year federal sentence — financial crimes only.\n- The Douglas County Grand Jury (82 days, 395 exhibits, 76 witnesses) reported it 'found no credible evidence' of child sexual abuse, interstate transport of minors, drug trafficking or a pornography ring.\n- Key witnesses recanted (Troy Boner) or were convicted of perjury (Alisha Owen, 1991); no abuse-ring indictments or convictions resulted.\n- Record summary verified accurate against the research; source link needs replacing."
 }

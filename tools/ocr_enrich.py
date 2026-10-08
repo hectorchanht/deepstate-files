@@ -110,12 +110,22 @@ def process(r):
         return meta
     os.makedirs(OUT, exist_ok=True)
     tmp = os.path.join("/tmp", f"ocr_{rid}")
-    try:
-        ctype = download(url, tmp)
-    except Exception as e:
-        meta["status"] = "fetch_failed"
-        meta["error"] = f"{type(e).__name__}: {e}"[:200]
-        return meta
+    # local override: repo may carry a source PDF the runner can't download
+    local_pdf = os.path.join(OUT, "source_pdfs", rid + ".pdf")
+    ctype = None
+    if os.path.exists(local_pdf):
+        import shutil
+        shutil.copy(local_pdf, tmp)
+        meta["status"] = "local_pdf"
+        meta["note"] = "used repo-local source PDF (download bypassed)"
+    else:
+        try:
+            ctype = download(url, tmp)
+        except Exception as e:
+            meta["status"] = "fetch_failed"
+            meta["error"] = f"{type(e).__name__}: {e}"[:200]
+            json.dump(meta, open(os.path.join(OUT, rid + ".meta.json"), "w"), indent=2)
+            return meta
     try:
         if "pdf" in ctype or tmp.lower().endswith(".pdf") or open(tmp, "rb").read(4) == b"%PDF":
             if pdf_has_text(tmp):

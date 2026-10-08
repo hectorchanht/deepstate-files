@@ -1,0 +1,28 @@
+name: watch
+on:
+  schedule:
+    - cron: "0 9 * * 1"  # Mondays ~09:00 UTC
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Poll source feeds
+        run: python3 tools/watch.py
+      - name: Commit new records
+        run: |
+          git config user.name "dsf-watcher"
+          git config user.email "dsf-watcher@users.noreply.github.com"
+          git add src/records/watch-*.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "no new records"
+          else
+            git commit -m "watcher: new source releases (pending review)"
+            git push
+          fi

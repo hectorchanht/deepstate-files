@@ -9,7 +9,7 @@
   "sources": [
     {
       "label": "CDC Tuskegee timeline",
-      "url": "https://www.cdc.gov/tuskegee/index.html"
+      "url": "https://www.cdc.gov/tuskegee/about/index.html"
     },
     {
       "label": "NARA Tuskegee records",
@@ -21,5 +21,7 @@
     "medical abuse"
   ],
   "added": "2026-10-08",
-  "reviewed": true
+  "reviewed": true,
+  "tldr": "The CDC's official account: the U.S. Public Health Service's Untreated Syphilis Study at Tuskegee (1932-1972) enrolled 600 Black men — 399 with syphilis, 201 without — never collected informed consent, withheld available treatment, and ended in 1972; Clinton issued a formal presidential apology in 1997.",
+  "ai_summary": "AI review of the CDC's 'About the Untreated Syphilis Study at Tuskegee' page (note: the record's listed URL, cdc.gov/tuskegee/index.html, returns 404 — the content now lives at cdc.gov/tuskegee/about/index.html), read in full:\n- The study ran 1932-1972 to observe 'the natural history of untreated syphilis'; 600 Black men enrolled (399 with syphilis, 201 control); participants were told they were being treated for 'bad blood'; no informed consent was collected and treatment was not offered 'even after it was easily available' (by 1943 penicillin was the treatment of choice).\n- It ended in 1972 on the recommendation of an Ad Hoc Advisory Panel convened by the Assistant Secretary for Health, following publication of news articles; the panel's report notes the Macon County Health Department and Tuskegee Institute 'were cognizant of the study.'\n- The 1974 out-of-court settlement was $10 million: living syphilitic participants $37,500; heirs of deceased syphilitic participants $15,000; living control participants $16,000; heirs of deceased control participants $5,000.\n- In 1997 President Clinton 'issued a formal Presidential Apology,' announcing the investment that became the National Center for Bioethics in Research and Health Care at Tuskegee University.\n- Record summary broadly consistent (1932-1972, 399 men, 1972 exposure/end, 1974 ~$10M settlement, 1997 Clinton apology); flag that the listed source URL is dead and should be updated to the new CDC page."
 }

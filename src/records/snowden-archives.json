@@ -22,5 +22,7 @@
     "surveillance"
   ],
   "added": "2026-10-08",
-  "reviewed": true
+  "reviewed": true,
+  "tldr": "The ACLU's NSA Documents database is a searchable public collection of 1,617 FOIA-released NSA records (last updated July 16, 2024) — from FISA court orders and compliance-incident notices to inspector-general reports and program manuals.",
+  "ai_summary": "AI review of the ACLU NSA Documents database page (aclu.org/foia-collections/nsa-documents-search), read in full:\n- The database is 'Showing 1617 Results,' last updated July 16, 2024, searchable by document date, release date, and text, spanning documents dated 1993-2018 with release years 2013-2018.\n- The ACLU's framing: it 'long suspected that the NSA has gone far beyond its counterterrorism and foreign intelligence mandate, implementing a massive system to conduct bulk surveillance of millions of innocent Americans.'\n- Visible entries include the NSA OIG Semi-Annual Report to Congress (Oct 2017-Mar 2018), the UNITEDRAKE manual, NSA SSO weekly briefs, FISA Section 702 orders (Sept 2011), compliance-incident notices, and agency reviews of U.S.-person privacy protections in SIGINT dissemination.\n- Record summary broadly consistent on the database's nature; the 'launched April 2014' and 'every document public since June 5, 2013' details were not confirmable on this page (earliest listed release year is 2013)."
 }

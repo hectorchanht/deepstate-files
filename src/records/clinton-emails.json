@@ -18,5 +18,7 @@
     "emails"
   ],
   "added": "2026-10-08",
-  "reviewed": true
+  "reviewed": true,
+  "tldr": "Comey's July 5, 2016 statement: Clinton was 'extremely careless' with classified information on personal servers, but no reasonable prosecutor would bring charges — so the FBI recommended none.",
+  "ai_summary": "AI review of FBI Director James Comey's July 5, 2016 statement, read in full:\n- Scope: the investigation began as an Intelligence Community Inspector General referral; the FBI read all ~30,000 emails produced to State in December 2014 and recovered thousands more from slack space, other officials' mailboxes, and devices.\n- Findings: 110 emails in 52 chains contained classified information at the time sent or received — 8 chains Top Secret, 36 Secret, 8 Confidential; 7 chains concerned Top Secret/Special Access Program matters. About 2,000 additional emails were later 'up-classified.' No evidence of intentional deletion to conceal.\n- Verdict: 'Although there is evidence of potential violations... our judgment is that no reasonable prosecutor would bring such a case.' Prior prosecutions all involved intentional misconduct, vast quantities, disloyalty, or obstruction — 'We do not see those things here.'\n- On hacking: no direct evidence the personal domain was successfully hacked, but 'we assess it is possible that hostile actors gained access.'\n- Note: this statement predates the October 28, 2016 reopening (Weiner laptop), the November 6 re-closure, and the June 2018 DOJ IG report — those record-summary details postdate this document and were not in the text reviewed.\n- Record summary verified accurate for what the document covers."
 }

@@ -5,11 +5,15 @@
   "date": "1971-05-13",
   "kind": "document",
   "status": "verified",
-  "summary": "The Bohemian Club (est. 1872) holds an annual all-male summer encampment at Monte Rio, CA; the opening 'Cremation of Care' is a theatrical pageant (filmed by infiltrators in 2000). On White House tapes (May 13, 1971) Nixon called it 'the most faggy goddamned thing you could ever imagine... I attend from time to time.' No primary-source evidence supports claims of satanic rituals or human sacrifice; no criminal case has ever been tied to the Grove.",
+  "summary": "The Bohemian Club (est. 1872) holds an annual all-male summer encampment at Monte Rio, CA; the opening 'Cremation of Care' is a theatrical pageant (filmed by infiltrators in 2000). Nixon's engagement with the Grove is documented in White House tape logs — his 1967 speech there and a proposed-then-cancelled 1971 presidential visit (Nixon Library subject logs). On a May 13, 1971 tape, Nixon is widely reported to have called it 'the most faggy goddamned thing you could ever imagine... I attend from time to time.' No primary-source evidence supports claims of satanic rituals or human sacrifice; no criminal case has ever been tied to the Grove.",
   "sources": [
     {
-      "label": "Nixon Library tape subject logs",
+      "label": "Nixon Library tape subject logs (official)",
       "url": "https://www.nixonlibrary.gov/sites/default/files/forresearchers/find/tapes/finding_aids/tapesubjectlogs/oval552.pdf"
+    },
+    {
+      "label": "May 13, 1971 tape excerpt (secondary transcript)",
+      "url": "https://isgp-studies.com/org/bg/1971_05_13_Nixon_about_the_Grove.htm"
     }
   ],
   "tags": [
@@ -17,5 +21,7 @@
     "Nixon"
   ],
   "added": "2026-10-08",
-  "reviewed": true
+  "reviewed": true,
+  "tldr": "Nixon's ties to the Bohemian Grove are documented in White House tape logs (1967 speech, cancelled 1971 visit); on a May 13, 1971 tape he is widely reported calling it 'the most faggy goddamned thing you could ever imagine' — but no primary source supports satanic-ritual or criminal claims.",
+  "ai_summary": "AI review of the Nixon Library Tape Subject Log for Conversation No. 552 (Oval Office, July 30, 1971), read in full:\n- What the document is: a staff-compiled topic list (not a transcript) covering Nixon's proposed presidential visit to the Bohemian Grove encampment — its cancellation, press coverage, the off-the-record tradition, and his 1967 speech at the Grove.\n- Names logged: Walter Baird, Ronald Ziegler, George H.W. Bush (discussed as replacement speaker after Nixon's cancellation).\n- IMPORTANT: the widely quoted phrase comes from the May 13, 1971 tape, not this July 30 log — the quote does not appear in the document reviewed. It is corroborated across multiple secondary sources (transcript excerpt linked).\n- The log contains no mention of the 'Cremation of Care,' no 2000 infiltration footage, and no satanic-ritual or criminal-case material. Record summary corrected to match what each source actually shows."
 }

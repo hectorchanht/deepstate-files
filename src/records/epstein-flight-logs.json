@@ -21,5 +21,7 @@
     "flight logs"
   ],
   "added": "2026-10-08",
-  "reviewed": true
+  "reviewed": true,
+  "tldr": "The DOJ's Epstein Library disclosures portal is real and age-gated, with 12 data sets plus court records — but the flight-log files themselves sit behind the age-verification gate, so the record's specifics weren't reviewable from the landing page.",
+  "ai_summary": "AI review of the DOJ Epstein disclosures portal landing page (justice.gov/epstein/doj-disclosures), read in full:\n- Establishes the official 'Epstein Library': DOJ Disclosures Data Sets 1–12 plus a Court Records data set consolidating previously released court files.\n- Access requires age verification (18+); the page carries a privacy notice citing the volume of material and the Epstein Files Transparency Act (H.R. 4405), with redactions of victim names and identifying information applied.\n- Flag: the landing page does not list individual flights, the '2,618+' flight count, or passenger names — those live in files behind the age gate and were not in the text reviewed. The record summary's named individuals and the association-is-not-wrongdoing distinction were therefore not verifiable from this page. Partial verification only."
 }

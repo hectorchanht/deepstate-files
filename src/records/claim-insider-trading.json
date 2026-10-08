@@ -17,5 +17,7 @@
     "claim"
   ],
   "added": "2026-10-08",
-  "reviewed": true
+  "reviewed": true,
+  "tldr": "The 9/11 Commission's report states that exhaustive investigations by the SEC, FBI and other agencies found no evidence that anyone with advance knowledge of the attacks profited from securities trading.",
+  "ai_summary": "AI review of Chapter 5 (§5.4 'A Money Trail?') of the 9/11 Commission Report, read in full:\n- The report addresses claims that al Qaeda financed itself by manipulating the stock market using advance knowledge of 9/11.\n- Finding: 'Exhaustive investigations by the Securities and Exchange Commission, FBI, and other agencies have uncovered no evidence that anyone with advance knowledge of the attacks profited through securities transactions.'\n- The Commission adds it could not determine the origin of the attack money, calls the question 'of little practical significance,' and estimates the operation cost $400,000–$500,000 over nearly two years, with al Qaeda having many funding avenues.\n- Note: the record summary's granular examples (the 'highly suspicious' UAL puts being ~95% one US institutional investor; AMR trading traced to a Sept 9 options newsletter) come from the Commission's separate Terrorist Financing staff monograph, not Chapter 5 — they were not in the text reviewed and are neither confirmed nor contradicted by it.\n- Record summary verified accurate on the core finding against the report text."
 }

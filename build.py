@@ -154,13 +154,21 @@ def build_record(r, topics):
     t = next(x for x in topics if x["id"] == r["topic"])
     srcs = "".join(f'<li><a href="{esc(s["url"])}" rel="noopener" target="_blank">{esc(s["label"])}</a></li>' for s in r["sources"])
     review = "" if r.get("reviewed") else '<p style="margin-top:14px"><span class="badge st-unproven">NEW — PENDING REVIEW</span></p>'
+    tldr = f"""<div style="border:1px solid var(--amber);border-radius:6px;padding:14px 16px;margin:18px 0;max-width:700px;background:rgba(255,176,0,.06)">
+<div style="font-family:var(--mono);font-size:11px;letter-spacing:2px;color:var(--amber);margin-bottom:6px">TL;DR</div>
+<p style="margin:0;font-size:16px">{esc(r['tldr'])}</p></div>""" if r.get("tldr") else ""
+    ai = f"""<div style="max-width:700px;margin:18px 0"><h2 class="sec">AI DOCUMENT REVIEW</h2>
+<p style="font-size:15px;color:var(--dim);margin-bottom:8px">Generated from the primary source document. <a href="/about/">How we review</a>.</p>
+<p style="font-size:16px;white-space:pre-line">{esc(r['ai_summary'])}</p></div>""" if r.get("ai_summary") else ""
     body = f"""<div class="hero" style="padding:36px 0 10px">
 <span class="badge {cls}">{label}</span>
 <div class="meta" style="font-family:var(--mono);font-size:12px;color:var(--dim);letter-spacing:1px;margin:10px 0">{r['date']} · <a href="/topics/{t['id']}/">{esc(t['title']).upper()}</a> · FILE {r['id'].upper()}</div>
 <h1 style="font-size:clamp(26px,5vw,42px)">{esc(r['title'])}</h1></div>
+{tldr}
 <p style="font-size:19px;max-width:700px">{esc(r['summary'])}</p>
 <p style="color:var(--dim);font-size:15px;margin-top:12px">Evidence status: {esc(desc)}</p>
 {review}
+{ai}
 <div class="sources"><h2 class="sec" style="margin-top:0">PRIMARY SOURCES</h2><ul>{srcs}</ul></div>"""
     return page(r["title"], body, "t")
 

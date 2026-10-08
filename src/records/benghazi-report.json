@@ -8,7 +8,11 @@
   "summary": "~800 pages on the Sept 11, 2012 attack that killed Ambassador Stevens and three others: State failed to protect diplomats; CIA misread Libya's danger; DOD assets never reached Benghazi in time. Also found: NO new evidence of culpability by Clinton; NO 'stand down' order was issued; US forces in Europe could not have arrived in time.",
   "sources": [
     {
-      "label": "Benghazi committee report summary",
+      "label": "House Select Committee on Benghazi — official govinfo collection (H. Rept. 114-848)",
+      "url": "https://www.govinfo.gov/committee/house-benghazi?path=/browsecommittee/chamber/house/committee/benghazi/collection/OTHER-1"
+    },
+    {
+      "label": "Benghazi investigation (secondary overview)",
       "url": "https://en.wikipedia.org/wiki/United_States_House_Select_Committee_on_Benghazi"
     }
   ],

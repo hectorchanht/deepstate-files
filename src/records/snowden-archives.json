@@ -8,12 +8,12 @@
   "summary": "Publicly documented collections of the 2013+ NSA disclosures: the ACLU NSA Documents Database (launched April 2014 — every document public since June 5, 2013, searchable); EFF's 'NSA Primary Sources' chronological list; The Guardian's 'The NSA Files'; National Security Archive holdings. (The exact current URL of the ACLU database was not captured in this research pass.)",
   "sources": [
     {
-      "label": "ACLU database launch report",
-      "url": "https://www.theregister.com/security/2014/04/05/aclu-launches-user-friendly-database-of-every-snowden-doc/1007673"
+      "label": "ACLU NSA Documents Database (official)",
+      "url": "https://www.aclu.org/foia-collections/nsa-documents-search"
     },
     {
-      "label": "Global surveillance disclosures overview",
-      "url": "https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013–present)"
+      "label": "EFF: NSA Primary Sources (official)",
+      "url": "https://www.eff.org/nsa-spying/nsadocs"
     }
   ],
   "tags": [

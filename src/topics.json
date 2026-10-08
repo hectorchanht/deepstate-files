@@ -52,5 +52,29 @@
     "title": "Bush-Era Files",
     "lede": "Torture memos, WMD intelligence and the CIA interrogation report — the declassified paper trail of the 2000s.",
     "code": "DSF-09"
+  },
+  {
+    "id": "vietnam-war",
+    "title": "Vietnam-Era Files",
+    "lede": "The Gulf of Tonkin deception and the Pentagon Papers — the declassified record of how America went to war in Vietnam.",
+    "code": "DSF-10"
+  },
+  {
+    "id": "surveillance",
+    "title": "Mass Surveillance Files",
+    "lede": "From Snowden's disclosures to the archives that hold them — the documented scale of NSA surveillance.",
+    "code": "DSF-11"
+  },
+  {
+    "id": "watergate",
+    "title": "Watergate",
+    "lede": "The tapes that ended a presidency — the 'smoking gun' and the cover-up, on the record.",
+    "code": "DSF-12"
+  },
+  {
+    "id": "rfk-mlk",
+    "title": "RFK & MLK Files",
+    "lede": "The 2025 releases under Executive Order 14176 — 230,000+ pages on the King assassination and new RFK tranches.",
+    "code": "DSF-13"
   }
 ]

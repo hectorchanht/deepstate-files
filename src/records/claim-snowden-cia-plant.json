@@ -1,0 +1,21 @@
+{
+  "id": "claim-snowden-cia-plant",
+  "topic": "surveillance",
+  "title": "CLAIM: Snowden was a CIA plant running coded ops",
+  "date": "2013-06-05",
+  "kind": "claim",
+  "status": "unproven",
+  "summary": "Q-drop-era claim that the whistleblower was a CIA-planted operative. No primary source — no document, testimony or investigative file — supports it; the public record is the disclosure archive itself.",
+  "sources": [
+    {
+      "label": "Global surveillance disclosures overview",
+      "url": "https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013–present)"
+    }
+  ],
+  "tags": [
+    "Snowden",
+    "claim"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

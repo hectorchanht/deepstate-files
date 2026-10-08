@@ -1,0 +1,26 @@
+{
+  "id": "pentagon-papers",
+  "topic": "vietnam-war",
+  "title": "The Pentagon Papers: NARA Full Release (2011)",
+  "date": "2011-06-13",
+  "kind": "document",
+  "status": "verified",
+  "summary": "'Report of the Office of the Secretary of Defense Vietnam Task Force,' commissioned by McNamara in 1967, leaked by Daniel Ellsberg in June 1971. Full official release June 13, 2011 (40th anniversary) by NARA with the Kennedy, Johnson and Nixon libraries — ~7,000 pages in 48 boxes, no redactions, ~2,384 pages newly available vs. the Gravel edition.",
+  "sources": [
+    {
+      "label": "NARA Pentagon Papers",
+      "url": "https://www.archives.gov/research/pentagon-papers"
+    },
+    {
+      "label": "NARA press release NR11-138",
+      "url": "https://www.archives.gov/press/press-releases/2011/nr11-138.html"
+    }
+  ],
+  "tags": [
+    "Vietnam",
+    "Pentagon Papers",
+    "NARA"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

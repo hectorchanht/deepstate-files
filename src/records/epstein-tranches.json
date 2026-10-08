@@ -1,0 +1,26 @@
+{
+  "id": "epstein-tranches",
+  "topic": "epstein",
+  "title": "Epstein Files: The 2025–2026 Tranches",
+  "date": "2026-01-30",
+  "kind": "document",
+  "status": "verified",
+  "summary": "Beyond the July 2025 DOJ/FBI memo: Feb 27, 2025 — AG Bondi 'Phase 1' (~100+ pages). Sept 2025 — House Oversight posted 33,295 pages from DOJ; Nov 2025 — ~20,000 pages from Epstein's estate. Nov 19, 2025 — Epstein Files Transparency Act signed (publish all unclassified DOJ Epstein records within 30 days). Dec 19, 2025 — first EFTA tranche (heavy redactions). Jan 30, 2026 — largest tranche: ~3–3.5M pages + 2,000+ videos + 180,000 images; DAG called it the 'final major disclosure.' Contents: flight logs, financial ledgers, interview transcripts, FBI memos, Maxwell-trial materials. No new criminal charges announced.",
+  "sources": [
+    {
+      "label": "Tranche-by-tranche fact check",
+      "url": "https://factually.co/fact-checks/justice/released-jeffrey-epstein-files-by-administration-41dc56"
+    },
+    {
+      "label": "DOJ Epstein disclosures",
+      "url": "https://www.justice.gov/epstein/doj-disclosures"
+    }
+  ],
+  "tags": [
+    "Epstein",
+    "DOJ",
+    "tranches"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

@@ -1,0 +1,30 @@
+{
+  "id": "mkultra-docs",
+  "topic": "intel-abuses",
+  "title": "MKUltra: The CIA's Declassified Files",
+  "date": "1977-08-03",
+  "kind": "document",
+  "status": "verified",
+  "summary": "CIA Director Helms ordered MKUltra files destroyed in 1973; a 1977 FOIA request surfaced ~20,000 misfiled records. At the Aug 3, 1977 Senate hearings, DCI Stansfield Turner testified on the finds: 149 subprojects across 80+ institutions (universities, hospitals, prisons, pharma companies); unwitting dosing of American and Canadian citizens with LSD and other drugs. Program closed 1964, some work continuing as MKSEARCH.",
+  "sources": [
+    {
+      "label": "CIA Reading Room doc 06760269 (archive.org mirror)",
+      "url": "https://archive.org/details/cia-readingroom-document-06760269"
+    },
+    {
+      "label": "DOE OpenNet summary (149 subprojects)",
+      "url": "https://www.osti.gov/opennet/servlets/purl/16384504.pdf"
+    },
+    {
+      "label": "CIA FOIA Reading Room",
+      "url": "https://www.cia.gov/readingroom/"
+    }
+  ],
+  "tags": [
+    "MKUltra",
+    "CIA",
+    "mind control"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

@@ -1,0 +1,22 @@
+{
+  "id": "mockingbird-record",
+  "topic": "intel-abuses",
+  "title": "What the Church Committee Found on CIA & the Media",
+  "date": "1976-04-26",
+  "kind": "document",
+  "status": "verified",
+  "summary": "Church Committee Final Report, Book I (Apr 26, 1976): the CIA maintained covert relationships with ~50 American journalists/media figures; a network of several hundred foreign media individuals/assets for covert propaganda; 12+ U.S. news organizations provided cover for CIA officers abroad (some unwitting). The CIA refused to name names. Carl Bernstein (Rolling Stone, Oct 1977) separately reported ~400 U.S. journalists had worked with the CIA over 25 years.",
+  "sources": [
+    {
+      "label": "Church Committee findings on media (overview)",
+      "url": "https://www.senate.gov/about/powers-procedures/investigations/church-committee.htm"
+    }
+  ],
+  "tags": [
+    "Mockingbird",
+    "CIA",
+    "media"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

@@ -1,0 +1,25 @@
+{
+  "id": "tuskegee-records",
+  "topic": "intel-abuses",
+  "title": "Tuskegee Syphilis Experiment: The Records",
+  "date": "1997-05-16",
+  "kind": "document",
+  "status": "verified",
+  "summary": "USPHS study in Macon County, Alabama (1932–1972): 399 Black men with syphilis observed without treatment; penicillin withheld after 1947; exposed by AP in 1972 (Peter Buxtun leak); terminated the same year. Class action Pollard v. United States settled 1974 (~$10M + lifetime medical benefits). President Clinton's formal apology, May 16, 1997, White House ceremony.",
+  "sources": [
+    {
+      "label": "CDC Tuskegee timeline",
+      "url": "https://www.cdc.gov/tuskegee/index.html"
+    },
+    {
+      "label": "NARA Tuskegee records",
+      "url": "https://www.archives.gov/research/african-americans/individuals/tuskegee-study"
+    }
+  ],
+  "tags": [
+    "Tuskegee",
+    "medical abuse"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

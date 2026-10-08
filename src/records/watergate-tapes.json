@@ -1,0 +1,25 @@
+{
+  "id": "watergate-tapes",
+  "topic": "watergate",
+  "title": "The 'Smoking Gun' Tape (June 23, 1972)",
+  "date": "1974-08-05",
+  "kind": "document",
+  "status": "verified",
+  "summary": "Oval Office conversation, Nixon–Haldeman, June 23, 1972, released Aug 5, 1974: Nixon and Haldeman plan to have the CIA tell the FBI to halt the Watergate investigation on false 'national security' grounds. It proved Nixon knew of the White House link to the burglaries within days and approved obstructing the FBI; congressional support collapsed; Nixon resigned Aug 8, 1974. Full tape portal at the Nixon Library.",
+  "sources": [
+    {
+      "label": "Nixon Library: White House Tapes",
+      "url": "https://www.nixonlibrary.gov/white-house-tapes"
+    },
+    {
+      "label": "Smoking gun tape transcript",
+      "url": "https://watergate.info/1972/06/23/the-smoking-gun-tape.html/"
+    }
+  ],
+  "tags": [
+    "Watergate",
+    "Nixon"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

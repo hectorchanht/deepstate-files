@@ -1,0 +1,21 @@
+{
+  "id": "claim-mockingbird-name",
+  "topic": "intel-abuses",
+  "title": "CLAIM: A CIA program literally named 'Operation Mockingbird' ran the U.S. press",
+  "date": "1979-01-01",
+  "kind": "claim",
+  "status": "unproven",
+  "summary": "The NAME 'Operation Mockingbird' first appears in Deborah Davis's 1979 Katharine Graham biography and appears in NO released CIA or congressional document. Three real things get conflated: Frank Wisner's 'Mighty Wurlitzer' foreign propaganda network; the ~50 domestic journalist relationships documented by the Church Committee; and the real 'Project Mockingbird' — a narrow 1963 warrantless wiretap of two columnists (acknowledged in the CIA 'Family Jewels,' 2007).",
+  "sources": [
+    {
+      "label": "Church Committee (Senate)",
+      "url": "https://www.senate.gov/about/powers-procedures/investigations/church-committee.htm"
+    }
+  ],
+  "tags": [
+    "Mockingbird",
+    "claim"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

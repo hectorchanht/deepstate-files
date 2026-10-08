@@ -1,0 +1,22 @@
+{
+  "id": "rfk-files-2025",
+  "topic": "rfk-mlk",
+  "title": "RFK Assassination Files: 2025 Releases",
+  "date": "2025-06-01",
+  "kind": "document",
+  "status": "verified",
+  "summary": "Under EO 14176 (signed Jan 23, 2025), RFK assassination files were released in tranches April–June 2025 (FBI/CIA/LAPD-related records). No verified primary-document support for the major conspiracy claims (second gunman, CIA involvement) has been reported from these releases.",
+  "sources": [
+    {
+      "label": "EO 14176 text (Federal Register)",
+      "url": "https://www.federalregister.gov/documents/full_text/html/2025/01/31/2025-02116.html"
+    }
+  ],
+  "tags": [
+    "RFK",
+    "NARA",
+    "declassified"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

@@ -1,0 +1,27 @@
+{
+  "id": "mlk-files-2025",
+  "topic": "rfk-mlk",
+  "title": "MLK Assassination Files: 230,000+ Pages (2025)",
+  "date": "2025-07-21",
+  "kind": "document",
+  "status": "verified",
+  "summary": "July 21, 2025 — 230,000+ pages released per EO 14176: the FBI MURKIN (Murder-King) investigation file; responsive CIA records; the State Department file on James Earl Ray's extradition from the UK; internal FBI memos and investigative leads. Per ODNI, unlike most JFK files these had never been digitized. Major claims (FBI/CIA conspiracy, Ray framed): no primary-document support reported.",
+  "sources": [
+    {
+      "label": "NARA MLK collection",
+      "url": "https://www.archives.gov/research/mlk"
+    },
+    {
+      "label": "NARA announcement",
+      "url": "https://www.archives.gov/news/articles/nara-releases-230k-mlk-assassination-files"
+    }
+  ],
+  "tags": [
+    "MLK",
+    "NARA",
+    "FBI",
+    "declassified"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

@@ -1,0 +1,22 @@
+{
+  "id": "tonkin-nsa",
+  "topic": "vietnam-war",
+  "title": "NSA 2005 Release: The Gulf of Tonkin Deception",
+  "date": "2005-12-01",
+  "kind": "document",
+  "status": "verified",
+  "summary": "On Dec 1, 2005 NSA declassified 140+ formerly top-secret documents including historian Robert J. Hanyok's SIGINT study. Conclusion: the Aug 2, 1964 engagement (USS Maddox) was real; the Aug 4, 1964 second attack did NOT happen — it rested on bad naval intelligence and misrepresented SIGINT. The Aug 4 incident was the basis for the Gulf of Tonkin Resolution (Aug 7, 1964) authorizing the war.",
+  "sources": [
+    {
+      "label": "National Security Archive press release",
+      "url": "http://nsarchive.gwu.edu/NSAEBB/NSAEBB132/press20051201.htm"
+    }
+  ],
+  "tags": [
+    "Vietnam",
+    "NSA",
+    "Gulf of Tonkin"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

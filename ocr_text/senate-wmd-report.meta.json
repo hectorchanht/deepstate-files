@@ -3,5 +3,5 @@
   "source_url": "https://www.congress.gov/committee-report/108th-congress/senate-report/301/1",
   "status": "extract_failed",
   "note": "used repo-local source PDF (download bypassed)",
-  "error": "TypeError: argument of type 'NoneType' is not iterable"
+  "error": "ValueError: document closed"
 }

@@ -22,7 +22,7 @@ OUT = os.path.join(HERE, "..", "ocr_text")
 MAX_PAGES = 40
 DPI = 150
 
-UA = {"User-Agent": "DeepStateFiles-ocr/1.0 (+https://deepstate.hectorchan.com)"}
+UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"}
 
 
 def load_records(ids):

@@ -1,0 +1,22 @@
+{
+  "id": "jp-morgan-history",
+  "topic": "bankers",
+  "title": "J.P. Morgan: The Documented History",
+  "date": "1913-03-31",
+  "kind": "document",
+  "status": "verified",
+  "summary": "John Pierpont Morgan (1837–1913) financed the railroads, steel and utilities that industrialized the US; formed U.S. Steel (1901). Died March 31, 1913 — months BEFORE the Federal Reserve Act (Dec 23, 1913). He did not create the Fed.",
+  "sources": [
+    {
+      "label": "JPMorganChase: Our history",
+      "url": "http://jpmorganchase.com/about/our-history"
+    }
+  ],
+  "tags": [
+    "Morgan",
+    "banking",
+    "Federal Reserve"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

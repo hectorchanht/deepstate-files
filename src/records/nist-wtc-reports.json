@@ -1,0 +1,22 @@
+{
+  "id": "nist-wtc-reports",
+  "topic": "sept11",
+  "title": "NIST World Trade Center Reports (NCSTAR 1 & 1A)",
+  "date": "2005-09-01",
+  "kind": "document",
+  "status": "verified",
+  "summary": "Federal Building and Fire Safety Investigation of the World Trade Center Disaster. Concludes each tower collapsed from aircraft impact damage, dislodged fireproofing and multi-floor fires — floor trusses sagged, pulled exterior columns inward, progressive collapse. WTC 7 (NCSTAR 1A, Nov 2008): thermal expansion failed Column 79 — 'the first known instance of the total collapse of a tall building primarily due to fires.' NIST's FAQ directly rebuts controlled demolition/thermite: no blast evidence; a thermite operation would have needed many thousands of pounds placed inconspicuously.",
+  "sources": [
+    {
+      "label": "NIST final report",
+      "url": "https://www.nist.gov/publications/federal-building-and-fire-safety-investigation-world-trade-center-disaster-final-report?pub_id=909017"
+    }
+  ],
+  "tags": [
+    "9/11",
+    "WTC",
+    "engineering"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

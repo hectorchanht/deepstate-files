@@ -1,0 +1,22 @@
+{
+  "id": "jfk-2023-release",
+  "topic": "jfk",
+  "title": "NARA JFK Releases (2023)",
+  "date": "2023-01-01",
+  "kind": "document",
+  "status": "verified",
+  "summary": "NARA posted thousands of formerly-redacted records: CIA Office of Legislative Counsel journals, JMWAVE cables, CIA Oswald files, Rockefeller Commission/HSCA-era material and DOD files.",
+  "sources": [
+    {
+      "label": "NARA 2023 release index",
+      "url": "https://www.archives.gov/research/jfk/release-2023"
+    }
+  ],
+  "tags": [
+    "JFK",
+    "NARA",
+    "CIA"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

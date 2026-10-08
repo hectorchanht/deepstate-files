@@ -1,0 +1,21 @@
+{
+  "id": "clinton-foundation",
+  "topic": "clinton",
+  "title": "Clinton Foundation: Facts vs Claims",
+  "date": "1997-01-01",
+  "kind": "document",
+  "status": "verified",
+  "summary": "Founded 1997; a public OPERATING foundation running its own programs (HIV/AIDS, climate, health). Ratings: Charity Navigator 4/4 stars; CharityWatch 'A' (~88% to mission). Documented controversies: foreign-government donations during her State tenure; disclosure lapses. Claims: 'Only 6% goes to charity' — DISPUTED (counts grants only, ignoring program expenses ~80–89%). 'Pay-to-play proven' — UNPROVEN; multiple inquiries, no charges.",
+  "sources": [
+    {
+      "label": "Clinton Foundation",
+      "url": "https://en.wikipedia.org/wiki/Clinton_Foundation"
+    }
+  ],
+  "tags": [
+    "Clinton",
+    "foundation"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

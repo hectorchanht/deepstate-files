@@ -1,0 +1,25 @@
+{
+  "id": "rothschild-history",
+  "topic": "bankers",
+  "title": "Rothschild Family: The Documented History",
+  "date": "1810-01-01",
+  "kind": "document",
+  "status": "verified",
+  "summary": "From Frankfurt's Judengasse: Mayer Amschel Rothschild (1744–1812) founded 'M A Rothschild und Söhne' in 1810; five sons built a Europe-wide network underwriting sovereign debt and financing governments including Britain's Napoleonic war effort. Today Rothschild & Co is an advisory/wealth-management firm. It owns no central banks.",
+  "sources": [
+    {
+      "label": "Rothschild Archive: Mayer Amschel",
+      "url": "https://family.rothschildarchive.org/people/21-mayer-amschel-rothschild-1744-1812"
+    },
+    {
+      "label": "Rothschild Archive timeline",
+      "url": "https://www.rothschildarchive.org/exhibitions/timeline"
+    }
+  ],
+  "tags": [
+    "Rothschild",
+    "banking"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

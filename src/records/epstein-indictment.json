@@ -1,0 +1,21 @@
+{
+  "id": "epstein-indictment",
+  "topic": "epstein",
+  "title": "2019 SDNY Indictment (19 Cr. 490)",
+  "date": "2019-07-08",
+  "kind": "document",
+  "status": "verified",
+  "summary": "United States v. Jeffrey Epstein: conspiracy to commit sex trafficking of minors (§371) and sex trafficking of minors (§1591), alleging conduct 2002–2005 in New York and Palm Beach — girls as young as 14 enticed to 'massages' escalating to sex acts for cash, victims recruited to recruit others. Epstein was found dead August 10, 2019 (suicide, per the NYC medical examiner); the criminal case abated. Guilt was never adjudicated.",
+  "sources": [
+    {
+      "label": "DOJ: U.S. v. Jeffrey Epstein",
+      "url": "https://www.justice.gov/usao-sdny/programs/victim-witness-services/united-states-v-jeffrey-epstein-19-cr-490-rmb"
+    }
+  ],
+  "tags": [
+    "Epstein",
+    "court records"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

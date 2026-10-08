@@ -1,0 +1,21 @@
+{
+  "id": "claim-rothschild-banks",
+  "topic": "bankers",
+  "title": "CLAIM: Rothschilds own all the world's central banks",
+  "date": "1846-01-01",
+  "kind": "claim",
+  "status": "disputed",
+  "summary": "Viral claim that the Rothschilds secretly own the Federal Reserve and most central banks. Counter-evidence: central banks are publicly/government-owned (Bank of England nationalized 1946; the Fed 'is not owned by anyone' — created by Congress). AAP FactCheck verdict: False. The trope traces to an anonymous 1846 Paris pamphlet and 'Protocols'-era literature.",
+  "sources": [
+    {
+      "label": "AAP FactCheck",
+      "url": "https://www.aap.com.au/factcheck/rothschilds-mass-ownership-claim-a-bankrupt-myth/"
+    }
+  ],
+  "tags": [
+    "Rothschild",
+    "claim"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

@@ -1,0 +1,22 @@
+{
+  "id": "clinton-emails",
+  "topic": "clinton",
+  "title": "FBI Clinton Email Investigation ('Midyear Exam')",
+  "date": "2016-07-05",
+  "kind": "document",
+  "status": "verified",
+  "summary": "Comey's statement: Clinton was 'extremely careless' with classified info on personal servers (~110 emails in 52 chains classified at the time of sending); 'no clear evidence' of intent; 'no reasonable prosecutor' would bring charges — declined. Briefly reopened Oct 28, 2016 (Weiner laptop), closed Nov 6 with conclusions unchanged. DOJ IG (June 2018) criticized Comey's public statements but found no evidence political bias affected the declination.",
+  "sources": [
+    {
+      "label": "FBI: Comey statement",
+      "url": "https://www.fbi.gov/news/press-releases/statement-by-fbi-director-james-b-comey-on-the-investigation-of-secretary-hillary-clinton2019s-use-of-a-personal-e-mail-system"
+    }
+  ],
+  "tags": [
+    "Clinton",
+    "FBI",
+    "emails"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

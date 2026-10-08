@@ -1,0 +1,21 @@
+{
+  "id": "epstein-flight-logs",
+  "topic": "epstein",
+  "title": "The Flight Logs (Court Exhibits)",
+  "date": "2015-12-10",
+  "kind": "document",
+  "status": "verified",
+  "summary": "Pilot manifests for Epstein's aircraft entered as exhibits in Giuffre v. Maxwell, introduced at Maxwell's trial, and released via FOIA/DOJ disclosures (2,618+ known flights compiled). Names include Bill Clinton, Donald Trump, Prince Andrew, Kevin Spacey, Naomi Campbell, Chris Tucker, Alan Dershowitz, Jean-Luc Brunel, Larry Summers. They show who was on which flights — appearance establishes association, NOT wrongdoing, a distinction emphasized by DOJ, courts and fact-checkers.",
+  "sources": [
+    {
+      "label": "Flight logs explainer",
+      "url": "https://factually.co/fact-checks/justice/epstein-flight-logs-photographs-private-jet-records-linked-to-giuffre-8dcc6f"
+    }
+  ],
+  "tags": [
+    "Epstein",
+    "flight logs"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

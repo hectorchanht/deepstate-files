@@ -1,0 +1,21 @@
+{
+  "id": "claim-grassy-knoll",
+  "topic": "jfk",
+  "title": "CLAIM: A second gunman on the grassy knoll",
+  "date": "1963-11-22",
+  "kind": "claim",
+  "status": "disputed",
+  "summary": "The HSCA's 1979 'high probability of conspiracy' rested SOLELY on acoustic analysis of the Dallas police Dictabelt recording. The FBI Laboratory review (Dec 1980) found the analyses 'did not scientifically prove' a second gunman — the finding is invalid; later audio research confirmed the open-mike motorcycle wasn't in the motorcade during the shots.",
+  "sources": [
+    {
+      "label": "FBI lab review (PDF)",
+      "url": "http://jfk.hood.edu/Collection/FBI%20Records/062-117290/062-117290%20Volume%2025/62-117290P25b.pdf"
+    }
+  ],
+  "tags": [
+    "JFK",
+    "claim"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

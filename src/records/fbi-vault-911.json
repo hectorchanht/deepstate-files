@@ -1,0 +1,22 @@
+{
+  "id": "fbi-vault-911",
+  "topic": "sept11",
+  "title": "FBI Vault: 9/11 Collections",
+  "date": "2001-01-01",
+  "kind": "document",
+  "status": "verified",
+  "summary": "The FBI's FOIA library hosts the 9/11 Commission Report investigative files (monthly releases 2001–2004), material released under Executive Order 14040 (2021 declassification review), and Pentagon exterior/interior/debris photos plus emergency-response footage.",
+  "sources": [
+    {
+      "label": "FBI Vault — 9/11 search",
+      "url": "https://vault.fbi.gov/search?SearchableText=9-11&utm_source"
+    }
+  ],
+  "tags": [
+    "9/11",
+    "FBI",
+    "FOIA"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

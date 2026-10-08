@@ -1,0 +1,22 @@
+{
+  "id": "torture-memos",
+  "topic": "bush-era",
+  "title": "The OLC 'Torture Memos' (2002)",
+  "date": "2002-08-01",
+  "kind": "document",
+  "status": "verified",
+  "summary": "OLC memos signed by Jay Bybee (drafted principally by John Yoo): narrowed 'torture' to pain equivalent to organ failure or death, and approved CIA 'enhanced' techniques for Abu Zubaydah. Withdrawn in 2004 by OLC head Jack Goldsmith as deeply flawed; rescinded by Obama Jan 22, 2009. DOJ OPR (2010) found professional misconduct; overruled to 'poor judgment.' No prosecutions resulted.",
+  "sources": [
+    {
+      "label": "Torture Memos",
+      "url": "https://en.wikipedia.org/wiki/Torture_Memos"
+    }
+  ],
+  "tags": [
+    "Bush",
+    "torture",
+    "CIA"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

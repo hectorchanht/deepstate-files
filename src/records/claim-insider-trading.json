@@ -1,0 +1,21 @@
+{
+  "id": "claim-insider-trading",
+  "topic": "sept11",
+  "title": "CLAIM: 9/11 insider trading proves foreknowledge",
+  "date": "2001-09-11",
+  "kind": "claim",
+  "status": "disputed",
+  "summary": "Unusual put-option activity before 9/11 is cited as proof of foreknowledge. Counter-evidence: the 9/11 Commission reports exhaustive SEC/FBI investigations found no evidence anyone with advance knowledge profited — the 'highly suspicious' UAL puts were 95% one US institutional investor with no al-Qaeda ties; AMR trading traced to a Sept 9 options newsletter.",
+  "sources": [
+    {
+      "label": "9/11 Commission Report",
+      "url": "https://govinfo.library.unt.edu/911/report/index.htm"
+    }
+  ],
+  "tags": [
+    "9/11",
+    "claim"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

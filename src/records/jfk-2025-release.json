@@ -1,0 +1,26 @@
+{
+  "id": "jfk-2025-release",
+  "topic": "jfk",
+  "title": "EO 14176: 80,000+ Pages Released (2025)",
+  "date": "2025-03-18",
+  "kind": "document",
+  "status": "verified",
+  "summary": "Executive Order 14176 (Jan 23, 2025) ordered full release of JFK/RFK/MLK assassination records. On March 18, 2025 NARA released 80,000+ pages in under 24 hours — 'one of the largest single releases of records in U.S. history.' The full collection exceeds 6 million pages. As of late 2026, no official review has identified a 'smoking gun' overturning the Warren Commission's lone-gunman conclusion.",
+  "sources": [
+    {
+      "label": "NARA release announcement",
+      "url": "https://www.archives.gov/news/articles/jfk-records-release"
+    },
+    {
+      "label": "NARA JFK FAQ",
+      "url": "https://www.archives.gov/research/jfk/faqs"
+    }
+  ],
+  "tags": [
+    "JFK",
+    "NARA",
+    "declassified"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

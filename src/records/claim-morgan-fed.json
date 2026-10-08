@@ -1,0 +1,22 @@
+{
+  "id": "claim-morgan-fed",
+  "topic": "bankers",
+  "title": "CLAIM: J.P. Morgan created the Federal Reserve",
+  "date": "1913-12-23",
+  "kind": "claim",
+  "status": "disputed",
+  "summary": "Morgan died March 31, 1913 — before the Federal Reserve Act (Dec 23, 1913). Bankers including Paul Warburg influenced the design (Jekyll Island, 1910), but the Fed is a creature of Congress.",
+  "sources": [
+    {
+      "label": "JPMorganChase history",
+      "url": "http://jpmorganchase.com/about/our-history"
+    }
+  ],
+  "tags": [
+    "Morgan",
+    "claim",
+    "Federal Reserve"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

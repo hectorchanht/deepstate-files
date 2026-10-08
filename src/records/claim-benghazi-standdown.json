@@ -1,0 +1,22 @@
+{
+  "id": "claim-benghazi-standdown",
+  "topic": "clinton",
+  "title": "CLAIM: A 'stand down' order was issued at Benghazi",
+  "date": "2012-09-11",
+  "kind": "claim",
+  "status": "disputed",
+  "summary": "The House Select Committee (2016) found NO stand-down order was issued, and that US forces in Europe could not have arrived in time — consistent with all prior inquiries.",
+  "sources": [
+    {
+      "label": "Benghazi committee report summary",
+      "url": "https://en.wikipedia.org/wiki/United_States_House_Select_Committee_on_Benghazi"
+    }
+  ],
+  "tags": [
+    "Clinton",
+    "Benghazi",
+    "claim"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

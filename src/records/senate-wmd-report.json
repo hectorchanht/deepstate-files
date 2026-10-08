@@ -1,0 +1,22 @@
+{
+  "id": "senate-wmd-report",
+  "topic": "bush-era",
+  "title": "Senate Report: Prewar Iraq WMD Intelligence (2004)",
+  "date": "2004-07-09",
+  "kind": "document",
+  "status": "verified",
+  "summary": "Unanimous bipartisan S. Rept. 108-301: most key judgments in the Oct 2002 NIE on Iraq were overstated or unsupported; 'group think' presumed active WMD programs; no CIA sources inside Iraq on WMD after 1998. Did NOT find analysts changed judgments from political pressure. Phase II (2008): administration public statements (Iraq–al-Qaeda partnership, WMD claims) were NOT substantiated by available intelligence.",
+  "sources": [
+    {
+      "label": "S. Rept. 108-301 (Congress.gov)",
+      "url": "https://www.congress.gov/committee-report/108th-congress/senate-report/301/1"
+    }
+  ],
+  "tags": [
+    "Bush",
+    "Iraq",
+    "WMD"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

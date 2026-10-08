@@ -1,0 +1,21 @@
+{
+  "id": "claim-demolition",
+  "topic": "sept11",
+  "title": "CLAIM: Controlled demolition of the Twin Towers / WTC 7",
+  "date": "2001-09-11",
+  "kind": "claim",
+  "status": "disputed",
+  "summary": "Popular claim that explosives or thermite brought down WTC 1, 2 and 7. Counter-evidence: NIST NCSTAR 1 & 1A document a fire-driven progressive collapse mechanism with no blast evidence; NIST's FAQ quantitatively rebuts the thermite scenario. No primary source supports demolition.",
+  "sources": [
+    {
+      "label": "NIST WTC investigation",
+      "url": "https://www.nist.gov/publications/federal-building-and-fire-safety-investigation-world-trade-center-disaster-final-report?pub_id=909017"
+    }
+  ],
+  "tags": [
+    "9/11",
+    "claim"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

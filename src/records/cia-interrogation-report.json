@@ -1,0 +1,22 @@
+{
+  "id": "cia-interrogation-report",
+  "topic": "bush-era",
+  "title": "Senate Report: CIA Detention & Interrogation (2014)",
+  "date": "2014-12-09",
+  "kind": "document",
+  "status": "verified",
+  "summary": "Five-year SSCI study of 6.3M+ pages of CIA records; 500+ page declassified executive summary. Findings: 'enhanced interrogation techniques' were not effective; the CIA gave extensively inaccurate information about the program to policymakers and the public; management was deeply flawed; the program was far more brutal than represented (waterboarding, systematic beatings, sleep deprivation; 119+ detainees in secret 'black sites').",
+  "sources": [
+    {
+      "label": "Feinstein report summary",
+      "url": "https://www.GlobalSecurity.org/intell/library/news/2014/intell-141209-feinstein01.htm"
+    }
+  ],
+  "tags": [
+    "Bush",
+    "CIA",
+    "torture"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

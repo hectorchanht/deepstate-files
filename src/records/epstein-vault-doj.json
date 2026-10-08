@@ -1,0 +1,26 @@
+{
+  "id": "epstein-vault-doj",
+  "topic": "epstein",
+  "title": "FBI Vault & DOJ Epstein Disclosures",
+  "date": "2024-01-01",
+  "kind": "document",
+  "status": "verified",
+  "summary": "FBI Vault collection (22 parts of investigative records); DOJ disclosure page; ~900 pages unsealed Jan 2024 from Giuffre v. Maxwell (depositions, emails, contact book). Feb 2025 'Phase 1' release was mostly already-public material. Under the Epstein Files Transparency Act, ~3.5M pages, ~2,000 videos and ~180,000 photos were released Dec 2025–Jan 2026. DOJ warned some circulating material may be fake or planted.",
+  "sources": [
+    {
+      "label": "FBI Vault: Jeffrey Epstein",
+      "url": "https://vault.fbi.gov/jeffrey-epstein"
+    },
+    {
+      "label": "DOJ disclosures",
+      "url": "https://www.justice.gov/epstein/doj-disclosures"
+    }
+  ],
+  "tags": [
+    "Epstein",
+    "FBI",
+    "DOJ"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

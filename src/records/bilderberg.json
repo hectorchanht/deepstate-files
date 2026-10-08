@@ -1,0 +1,21 @@
+{
+  "id": "bilderberg",
+  "topic": "grove",
+  "title": "Bilderberg Meetings: What Is Documented",
+  "date": "1954-05-01",
+  "kind": "document",
+  "status": "verified",
+  "summary": "Annual invitation-only conference (~120–150 politicians, CEOs, central bankers, academics) under the Chatham House Rule since 1954. The organization itself publishes each year's agenda and participant list (2024 Madrid: 131 participants; 2025 Stockholm: 121). No primary source — minutes, directives, testimony — shows decision-making authority or a secret world government.",
+  "sources": [
+    {
+      "label": "bilderbergmeetings.org",
+      "url": "https://www.bilderbergmeetings.org"
+    }
+  ],
+  "tags": [
+    "Bilderberg",
+    "elites"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

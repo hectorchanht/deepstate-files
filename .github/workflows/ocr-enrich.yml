@@ -19,7 +19,9 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - name: Install OCR stack
-        run: pip install paddleocr paddlepaddle pymupdf requests numpy
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq tesseract-ocr
+          pip install pymupdf requests
       - name: Run OCR enrichment
         run: python3 tools/ocr_enrich.py ${{ inputs.records }}
       - name: Commit extracted text

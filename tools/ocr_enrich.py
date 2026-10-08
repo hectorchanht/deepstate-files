@@ -2,7 +2,7 @@
 """OCR enrichment for Deep State Files.
 
 Downloads each target record's primary document. If it's a PDF with no
-extractable text (scanned images), runs PaddleOCR on the first MAX_PAGES
+extractable text (scanned images), runs Tesseract OCR on the first MAX_PAGES
 pages. Saves extracted text to ocr_text/<id>.txt for human/AI review —
 this script NEVER writes tldr/ai_summary itself; review happens separately.
 
@@ -10,8 +10,8 @@ Usage:
     python3 tools/ocr_enrich.py [record-id ...]   # specific records
     python3 tools/ocr_enrich.py all                # all records lacking tldr
 
-Designed to run on GitHub Actions (ubuntu-latest) where PaddleOCR can be
-pip-installed; PaddleOCR does not run on the dev VM.
+Designed to run on GitHub Actions (ubuntu-latest) where tesseract can be
+apt-installed; no OCR engine runs on the dev VM.
 """
 import json, os, sys, glob, re
 
@@ -69,28 +69,25 @@ def extract_digital_text(path):
 
 
 def ocr_pdf(path):
-    from paddleocr import PaddleOCR
-    import fitz
-    ocr = PaddleOCR(use_angle_cls=True, lang="en", show_log=False)
+    # Tesseract CLI (apt-installed on the Actions runner) — far lighter than
+    # PaddleOCR and sufficient for clean scanned government documents.
+    import fitz, subprocess, tempfile
     doc = fitz.open(path)
     n = min(len(doc), MAX_PAGES)
     parts = []
-    for i in range(n):
-        pix = doc[i].get_pixmap(dpi=DPI)
-        import numpy as np
-        img = np.frombuffer(pix.samples, dtype=np.uint8).reshape(
-            pix.height, pix.width, pix.n)
-        if pix.n == 4:
-            img = img[:, :, :3]
-        res = ocr.ocr(img, cls=True)
-        lines = []
-        for block in res or []:
-            for line in block or []:
-                try:
-                    lines.append(line[1][0])
-                except Exception:
-                    pass
-        parts.append(f"\n--- page {i+1} ---\n" + "\n".join(lines))
+    with tempfile.TemporaryDirectory() as td:
+        for i in range(n):
+            pix = doc[i].get_pixmap(dpi=DPI)
+            img_path = os.path.join(td, f"p{i}.png")
+            pix.save(img_path)
+            try:
+                out = subprocess.run(
+                    ["tesseract", img_path, "stdout", "-l", "eng"],
+                    capture_output=True, text=True, timeout=120)
+                text = out.stdout.strip()
+            except Exception as e:
+                text = f"[OCR failed: {e}]"
+            parts.append(f"\n--- page {i+1} ---\n{text}")
     doc.close()
     return "\n".join(parts), len(doc), n
 

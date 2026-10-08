@@ -20,6 +20,28 @@ KEYWORDS = ["epstein", "declassif", "jfk", "rfk", "king assassination", "foia",
 DOJ_API = ("https://www.justice.gov/api/v1/press_releases.json"
            "?pagesize=50&page=0")
 
+# Generic index/nav pages that match keywords but are not releases — never file these.
+GENERIC_URL_PATTERNS = [
+    r"/foia/?$", r"/news/?$", r"/release/?$", r"^https?://(www\.)?archives\.gov/foia/?$",
+    r"/readingroom/?$", r"/whats-new/?$",
+]
+GENERIC_TITLE_PATTERNS = [
+    r"^freedom of information act$", r"^foia$", r"^news$", r"^press releases$",
+    r"^recently added$", r"^what's new$",
+]
+
+def is_generic(url, title):
+    import re as _re
+    u = url.rstrip("/").lower()
+    t = title.strip().lower()
+    if any(_re.search(p, u) for p in GENERIC_URL_PATTERNS):
+        return True
+    if any(_re.search(p, t) for p in GENERIC_TITLE_PATTERNS):
+        return True
+    return False
+
+TODAY_STR = __import__("datetime").date.today().isoformat()
+
 def fetch(url, timeout=25):
     req = urllib.request.Request(url, headers={"User-Agent": "DeepStateFiles-watcher/1.0"})
     with urllib.request.urlopen(req, timeout=timeout) as r:
@@ -85,9 +107,10 @@ def scrape_links(page_url, base, known):
             continue
         seen.add(href)
         ks = matches(title := (text + " " + href))
-        if ks and href.rstrip("/").lower() not in known and len(text) > 12:
+        if ks and href.rstrip("/").lower() not in known and len(text) > 12 \
+                and not is_generic(href, text):
             out.append({"title": htmllib.unescape(text[:140]), "url": href,
-                        "date": "2026-01-01", "via": page_url, "keywords": ks})
+                        "date": TODAY_STR, "via": page_url, "keywords": ks})
     return out[:25]
 
 def file_record(item, topic="epstein"):

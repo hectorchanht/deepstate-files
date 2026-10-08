@@ -1,0 +1,22 @@
+{
+  "id": "911-commission-report",
+  "topic": "sept11",
+  "title": "The 9/11 Commission Report",
+  "date": "2004-07-22",
+  "kind": "document",
+  "status": "verified",
+  "summary": "Final report of the bipartisan National Commission on Terrorist Attacks Upon the United States. Establishes that 19 al-Qaeda hijackers carried out the attacks and catalogues institutional failures (FBI–CIA info sharing, watchlisting, FAA/NORAD response, the August 6 2001 PDB). On insider trading it is explicit: exhaustive SEC/FBI investigations 'uncovered no evidence that anyone with advance knowledge of the attacks profited through securities transactions.' Commission chairs Kean and Hamilton later charged the CIA obstructed the Commission.",
+  "sources": [
+    {
+      "label": "Official full text (GPO archive)",
+      "url": "https://govinfo.library.unt.edu/911/report/index.htm"
+    }
+  ],
+  "tags": [
+    "9/11",
+    "commission",
+    "insider trading"
+  ],
+  "added": "2026-10-08",
+  "reviewed": true
+}

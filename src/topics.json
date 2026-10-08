@@ -1,0 +1,56 @@
+[
+  {
+    "id": "epstein",
+    "title": "The Epstein Files",
+    "lede": "Court records, flight logs, FBI files and DOJ releases — what the paper trail actually proves, and which viral claims have no paper trail at all.",
+    "code": "DSF-01"
+  },
+  {
+    "id": "sept11",
+    "title": "9/11: The Documents",
+    "lede": "The Commission Report, the NIST engineering studies, the declassified 28 pages and the FBI Vault — the primary record of September 11, 2001.",
+    "code": "DSF-02"
+  },
+  {
+    "id": "jfk",
+    "title": "The JFK Files",
+    "lede": "Six million pages and counting: the NARA assassination-records releases, including the 80,000-page 2025 tranche.",
+    "code": "DSF-03"
+  },
+  {
+    "id": "intel-abuses",
+    "title": "The Deep State, On the Record",
+    "lede": "The parts of 'deep state' lore that turned out to be real — proven by official investigations, not internet threads.",
+    "code": "DSF-04"
+  },
+  {
+    "id": "bankers",
+    "title": "Rothschild & Morgan",
+    "lede": "Two banking dynasties: the documented history versus the conspiracy claims — checked against archives and fact-checkers.",
+    "code": "DSF-05"
+  },
+  {
+    "id": "grove",
+    "title": "Bohemian Grove & Bilderberg",
+    "lede": "Secretive elite gatherings are real. Secret world government is not. The documented facts, separated from the folklore.",
+    "code": "DSF-06"
+  },
+  {
+    "id": "satanic-panic",
+    "title": "Satanic Panic & Adrenochrome",
+    "lede": "From the McMartin trial to QAnon: the origin chain of ritual-abuse claims, and what investigators actually found.",
+    "code": "DSF-07"
+  },
+  {
+    "id": "clinton",
+    "title": "The Clinton Files",
+    "lede": "The FBI email investigation, the Benghazi report and the Clinton Foundation — findings versus talking points.",
+    "code": "DSF-08"
+  },
+  {
+    "id": "bush-era",
+    "title": "Bush-Era Files",
+    "lede": "Torture memos, WMD intelligence and the CIA interrogation report — the declassified paper trail of the 2000s.",
+    "code": "DSF-09"
+  }
+]

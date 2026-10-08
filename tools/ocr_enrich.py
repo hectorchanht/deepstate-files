@@ -127,7 +127,7 @@ def process(r):
             json.dump(meta, open(os.path.join(OUT, rid + ".meta.json"), "w"), indent=2)
             return meta
     try:
-        if "pdf" in ctype or tmp.lower().endswith(".pdf") or open(tmp, "rb").read(4) == b"%PDF":
+        if (ctype and "pdf" in ctype) or tmp.lower().endswith(".pdf") or open(tmp, "rb").read(4) == b"%PDF":
             if pdf_has_text(tmp):
                 text = extract_digital_text(tmp)
                 meta.update(status="digital_text", pages=None,

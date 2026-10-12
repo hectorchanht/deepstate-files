@@ -1,0 +1,21 @@
+{
+  "id": "watch-freedom-of-information-privacy-act",
+  "topic": "epstein",
+  "title": "Freedom of Information/Privacy Act",
+  "date": "2026-10-12",
+  "kind": "document",
+  "status": "verified",
+  "summary": "New release spotted by the source watcher (https://vault.fbi.gov/recently-added). Matched keywords: foia. Awaiting editorial review — summary to be written from the primary source.",
+  "sources": [
+    {
+      "label": "Primary source",
+      "url": "https://foia.fbi.gov"
+    }
+  ],
+  "tags": [
+    "watcher",
+    "foia"
+  ],
+  "added": "2026-10-12",
+  "reviewed": false
+}

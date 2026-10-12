@@ -1,0 +1,21 @@
+{
+  "id": "watch-explanation-of-foi-pa-exemptions",
+  "topic": "epstein",
+  "title": "Explanation of FOI/PA Exemptions",
+  "date": "2026-10-12",
+  "kind": "document",
+  "status": "verified",
+  "summary": "New release spotted by the source watcher (https://vault.fbi.gov/recently-added). Matched keywords: vault. Awaiting editorial review — summary to be written from the primary source.",
+  "sources": [
+    {
+      "label": "Primary source",
+      "url": "https://vault.fbi.gov/explanation-of-exemptions"
+    }
+  ],
+  "tags": [
+    "watcher",
+    "vault"
+  ],
+  "added": "2026-10-12",
+  "reviewed": false
+}

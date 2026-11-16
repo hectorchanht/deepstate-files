@@ -1,0 +1,22 @@
+{
+  "id": "watch-press-release-house-oversight-committee-releases-report-on-t",
+  "topic": "epstein",
+  "title": "Press Release\n\t\tHouse Oversight Committee Releases Report on the Federal Government’s Mishandling of Epstein and Maxwell Criminal Investigat",
+  "date": "2026-11-16",
+  "kind": "document",
+  "status": "verified",
+  "summary": "New release spotted by the source watcher (https://oversight.house.gov/release). Matched keywords: epstein, maxwell. Awaiting editorial review — summary to be written from the primary source.",
+  "sources": [
+    {
+      "label": "Primary source",
+      "url": "https://oversight.house.gov/release/house-oversight-committee-releases-report-on-the-federal-governments-mishandling-of-epstein-and-maxwell-criminal-investigations/"
+    }
+  ],
+  "tags": [
+    "watcher",
+    "epstein",
+    "maxwell"
+  ],
+  "added": "2026-11-16",
+  "reviewed": false
+}
